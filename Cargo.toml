@@ -1,0 +1,8 @@
+[package]
+name = "testing2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "*"
+time = { version = "0.3", features = ["macros"] }
